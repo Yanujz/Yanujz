@@ -19,6 +19,7 @@
 | [configly](https://github.com/Yanujz/configly) | Callback-driven C++ library for configuration management. | C++ |
 | [argify](https://github.com/Yanujz/argify) | Lightweight C library for parsing CLI arguments. | C |
 | [googletest-boilerplate](https://github.com/Yanujz/googletest-boilerplate) | C++/CMake/GoogleTest starter template. | C++, CMake |
+| [tiny-shell](https://github.com/Yanujz/tiny-shell) | Lightweight C shell for embedded systems. | C, CMake |
 
 ---
 
